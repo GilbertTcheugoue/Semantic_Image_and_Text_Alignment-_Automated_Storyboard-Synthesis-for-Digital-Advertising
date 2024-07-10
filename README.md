@@ -1,0 +1,1 @@
+# Semantic_Image_and_Text_Alignment-_Automated_Storyboard-Synthesis-for-Digital-Advertising
