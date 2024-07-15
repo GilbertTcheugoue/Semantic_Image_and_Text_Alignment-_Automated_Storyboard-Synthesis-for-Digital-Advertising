@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: djibriltcheugoue1981/semantic_serachdocker login  -u djibriltcheugoue1981
+          tags: djibriltcheugoue1981/semantic_serach
